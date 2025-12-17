@@ -1,0 +1,9 @@
+{
+	"name": "RProjectDatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da85f045-7cc6-414f-b234-6e57002d3080",
+		"tenantId": "76b9cebc-e421-4f4f-b560-daba49bd6f65"
+	}
+}
